@@ -1,0 +1,28 @@
+name: material_shapes_example
+description: "Demonstrates how to use the material_shapes package."
+version: 1.0.0
+publish_to: "none"
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=3.32.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  material_shapes:
+    # When depending on this package from a real application you should use:
+    #   material_shapes: ^x.y.z
+    path: ../
+
+dev_dependencies:
+  very_good_analysis: ^7.0.0
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: DMSans
+      fonts:
+        - asset: assets/DMSans-Variable.ttf

@@ -1,0 +1,19 @@
+name: material_shapes
+description: "Material Shapes"
+version: 1.0.0
+publish_to: "none"
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: ^1.15.0
+  vector_math: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: ^7.0.0
