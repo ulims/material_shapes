@@ -1,7 +1,6 @@
 name: material_shapes
 description: "Material Shapes"
 version: 1.0.0
-publish_to: "none"
 homepage: https://github.com/ulims/material_shapes
 repository: https://github.com/ulims/material_shapes
 
