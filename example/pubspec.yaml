@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  material_shapes:
+  material_new_shapes:
     # When depending on this package from a real application you should use:
     #   material_shapes: ^x.y.z
     path: ../

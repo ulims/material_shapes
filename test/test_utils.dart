@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:material_shapes/src/shapes/shapes.dart';
+import 'package:material_new_shapes/src/shapes/shapes.dart';
 import 'package:vector_math/vector_math_64.dart';
 
 const _epsilon = 1e-4;
